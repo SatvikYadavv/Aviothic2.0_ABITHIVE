@@ -1,0 +1,11 @@
+image_path,predicted,correct
+temp.jpg,['Murrah'],Same
+temp.jpg,"['Pulikulam', 'Umblachery']",Same
+temp.jpg,['Murrah'],Same
+temp.jpg,['Murrah'],Same
+temp.jpg,['Murrah'],Same
+temp.jpg,['Sahiwal'],Same
+temp.jpg,['Murrah'],Same
+temp.jpg,['Murrah'],Same
+temp.jpg,['Sahiwal'],Same
+temp.jpg,['Sahiwal'],Same
